@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/messenger/static/css/main.0260e57a.css",
+    "main.js": "/messenger/static/js/main.f94fc146.js",
+    "static/media/backchat.png": "/messenger/static/media/backchat.027c7c013703847af04d.png",
+    "index.html": "/messenger/index.html",
+    "main.0260e57a.css.map": "/messenger/static/css/main.0260e57a.css.map",
+    "main.f94fc146.js.map": "/messenger/static/js/main.f94fc146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0260e57a.css",
+    "static/js/main.f94fc146.js"
+  ]
+}
